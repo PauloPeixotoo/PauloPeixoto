@@ -1,3 +1,5 @@
+<div>
+<a href="[https](https://github.com/PauloPeixotoo)">
 <img align="right" padding="20px" alt="Eat" height="250" width="350" border-radios="30" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1dzBuZGlybG14OWhxNXI2NGZieGM4YzcxbHljeTNpazIzaWxtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 
 <h1>
@@ -49,4 +51,5 @@ Teamwork and collaboration for your success.
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauloPeixotoo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=F11000&text_color=FFF&border_radius=3&border_color=F11000&icon_color=F11000&theme=jolly)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloPeixotoo&bg_color=000&border_color=F11000&title_color=F11000&text_color=FFF)
+</div>
 
