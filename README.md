@@ -1,11 +1,10 @@
 <div>
-<a href="[https](https://github.com/PauloPeixotoo)">
-<img align="right" padding="20px" alt="Eat" height="250" width="350" border-radios="30" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1dzBuZGlybG14OWhxNXI2NGZieGM4YzcxbHljeTNpazIzaWxtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 
 <h1>
    <br>
     <span color="F11000">Paulo Peixoto</span>
 </h1>
+<img align="right" padding="20px" alt="Eat" height="250" width="350" border-radios="30" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1dzBuZGlybG14OWhxNXI2NGZieGM4YzcxbHljeTNpazIzaWxtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 <h3>Full-Stack Developer</h3>
 <p align="justfy">
 <h4>Full Stack Developer: Skills and Passion
