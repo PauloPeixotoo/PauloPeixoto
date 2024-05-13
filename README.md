@@ -21,7 +21,14 @@ Experience in projects, delivering quality and efficiency.
 Teamwork and collaboration for your success.
 </h4></p>
 <p align="justfy">
+   
 <h4>I'm passionate about technology and programming, some of my hobbies are cars, gym, watching football.</h4></p>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauloPeixotoo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=F11000&text_color=FFF&border_radius=3&border_color=F11000&icon_color=F11000&theme=jolly)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloPeixotoo&bg_color=000&border_color=F11000&title_color=F11000&text_color=FFF)
+</div>
+
  <h3>Let’s work together?</h3> 
  <br>
  <br>
@@ -48,8 +55,5 @@ Teamwork and collaboration for your success.
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PauloPeixotoo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=F11000&text_color=FFF&border_radius=3&border_color=F11000&icon_color=F11000&theme=jolly)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PauloPeixotoo&bg_color=000&border_color=F11000&title_color=F11000&text_color=FFF)
-</div>
 
