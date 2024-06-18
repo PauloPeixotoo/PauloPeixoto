@@ -33,7 +33,7 @@ Teamwork and collaboration for your success.
  <h3>Let’s work together?</h3> 
 
 [![LinkedIn](https://img.shields.io/badge/-PauloPeixotoo-000?style=for-the-badge&logo=linkedin&logoColor=ffff&color:FFF)](https://github.com/PauloPeixotoo)
-[![Instagram](https://img.shields.io/badge/-Pauloo_Peixoto-000?style=for-the-badge&logo=instagram&logoColor=ffff&color:FFF)](https://www.instagram.com/0pripyat/)
+[![Instagram](https://img.shields.io/badge/-Pauloo_Peixoto-000?style=for-the-badge&logo=instagram&logoColor=ffff&color:FFF)](https://www.instagram.com/pauloo_peixoto/)
 [![Twitter](https://img.shields.io/badge/-Pauloo_Peixe-000?style=for-the-badge&logo=x&logoColor=ffff&color:FFF)](https://twitter.com/Pauloo_peixe)
 [![WhatsApp](https://img.shields.io/badge/-+5541997945346-000?style=for-the-badge&logo=whatsapp&logoColor=ffff&color:FFF)](https://api.whatsapp.com/send?phone=5541997945346)
 <h3 align="left">Technologies</h3>
